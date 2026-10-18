@@ -1,0 +1,8 @@
+{
+  "name": "Singapore Haze Watch - Real-Time Air Quality & Comic Guide",
+  "description": "Real-time Singapore PM2.5 haze monitoring app powered by official NEA data.gov.sg feeds, with illustrated public health comic guides for outdoor activities, vulnerable groups, and family safety.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
